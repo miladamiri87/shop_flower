@@ -1,0 +1,230 @@
+{
+  "banner_top": [
+    {
+      "title": "Fresh flower",
+      "img": "../assets/HOME/banner/hero-1.jpg",
+      "description": "making a beautiful flowers a part of your life",
+      "id": "38cf"
+    },
+    {
+      "title": "Gift Shop",
+      "img": "E:/deep learning/be best ou you own/front/kelas/kazemi/final/New folder/shop-wihout modul/public/Assets/insta/01.jpg",
+      "description": "making a beautiful Gifts a part of your life",
+      "id": "0a2e"
+    }
+  ],
+  "card_features": [
+    {
+      "card_title_card_features": "100% Freshness",
+      "icon": "https://preview.colorlib.com/theme/florist/img/benefit/benefit-1.png",
+      "description_card_features": "Most people are unaware of the less common flower",
+      "id": "3d21"
+    },
+    {
+      "card_title_card_features": "Made by artist",
+      "icon": "https://preview.colorlib.com/theme/florist/img/benefit/benefit-2.png",
+      "description_card_features": "Most people are unaware of the less common flower",
+      "id": "70f5"
+    },
+    {
+      "card_title_card_features": "Own courier",
+      "icon": "https://preview.colorlib.com/theme/florist/img/benefit/benefit-3.png",
+      "description_card_features": "Most people are unaware of the less common flower",
+      "id": "d06e"
+    },
+    {
+      "card_title_card_features": "100% Freshness",
+      "icon": "https://preview.colorlib.com/theme/florist/img/benefit/benefit-4.png",
+      "description_card_features": "Most people are unaware of the less common flower",
+      "id": "1bde"
+    }
+  ],
+  "new_arrival_card": [
+    {
+      "id": "01",
+      "img_new_arrival_card": "/Assets/HOME/product/product-1.jpg.webp",
+      "title_new_arrival_card": "Lily",
+      "cost_new_arrival_card": "$25_01",
+      "slug_tag_new_arrival_card": "bouquet",
+      "is_new": "0",
+      "category_id": "Trends New"
+    },
+    {
+      "id": "02",
+      "img_new_arrival_card": "/Assets/HOME/product/product-2.jpg.webp",
+      "title_new_arrival_card": "Rose",
+      "cost_new_arrival_card": "$25_02",
+      "slug_tag_new_arrival_card": "flower_box",
+      "is_new": "0",
+      "category_id": "Trends New"
+    },
+    {
+      "id": "03",
+      "img_new_arrival_card": "/Assets/HOME/product/product-3.jpg.webp",
+      "title_new_arrival_card": "Rose",
+      "cost_new_arrival_card": "$25_03",
+      "slug_tag_new_arrival_card": "flower_shelf",
+      "is_new": "1",
+      "category_id": "Trends New"
+    },
+    {
+      "id": "04",
+      "img_new_arrival_card": "/Assets/HOME/product/product-4.jpg.webp",
+      "title_new_arrival_card": "flower box",
+      "cost_new_arrival_card": "$25_04",
+      "slug_tag_new_arrival_card": "basket_of_flower",
+      "is_new": "0",
+      "category_id": "Tips & Idea"
+    },
+    {
+      "id": "05",
+      "img_new_arrival_card": "/Assets/HOME/product/product-5.jpg.webp",
+      "title_new_arrival_card": "Rose",
+      "cost_new_arrival_card": "$25_05",
+      "slug_tag_new_arrival_card": "gift_combos",
+      "is_new": "1",
+      "category_id": "Tips & Idea"
+    },
+    {
+      "id": "06",
+      "img_new_arrival_card": "/Assets/HOME/product/product-6.jpg.webp",
+      "title_new_arrival_card": "Dahlia",
+      "cost_new_arrival_card": "$25_06",
+      "slug_tag_new_arrival_card": "bouquet",
+      "is_new": "0",
+      "category_id": "Tips & Idea"
+    },
+    {
+      "id": "07",
+      "img_new_arrival_card": "/Assets/HOME/product/product-7.jpg.webp",
+      "title_new_arrival_card": "Dahlia",
+      "cost_new_arrival_card": "$25_07",
+      "slug_tag_new_arrival_card": "flower_box",
+      "is_new": "1",
+      "category_id": "Dry & Crafts"
+    },
+    {
+      "id": "08",
+      "img_new_arrival_card": "/Assets/HOME/product/product-8.jpg.webp",
+      "title_new_arrival_card": "Jasmine",
+      "cost_new_arrival_card": "$25_08",
+      "slug_tag_new_arrival_card": "flower_shelf",
+      "is_new": "0",
+      "category_id": "Dry & Crafts"
+    },
+    {
+      "id": "09",
+      "img_new_arrival_card": "/Assets/HOME/product/product-9.jpg.webp",
+      "title_new_arrival_card": "Jasmine",
+      "cost_new_arrival_card": "$25_09",
+      "slug_tag_new_arrival_card": "basket_of_flower",
+      "is_new": "0",
+      "category_id": "Dry & Crafts"
+    },
+    {
+      "id": "10",
+      "img_new_arrival_card": "/Assets/HOME/product/product-10.jpg.webp",
+      "title_new_arrival_card": "Jasmine",
+      "cost_new_arrival_card": "$25_10",
+      "slug_tag_new_arrival_card": "gift_combos",
+      "is_new": "0",
+      "category_id": "Dry & Crafts"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Milad Amiri",
+      "image": "/Assets/ABOUT/team/team-3.jpg.webp",
+      "grade": "Grand Master",
+      "position": "CEO",
+      "id": "62ed"
+    },
+    {
+      "name": "Mahla Akbari",
+      "image": "/Assets/ABOUT/team/team-1.jpg.webp",
+      "grade": "Master",
+      "position": "CTO",
+      "id": "e624"
+    },
+    {
+      "name": "Nazanin Aizi",
+      "image": "/Assets/ABOUT/team/team-2.jpg.webp",
+      "grade": "Master",
+      "position": "Product Manager",
+      "id": "a2df"
+    },
+    {
+      "name": "Fati Taghavi",
+      "image": "/Assets/ABOUT/team/team-4.jpg.webp",
+      "grade": "Master",
+      "position": "Business Development",
+      "id": "03f5"
+    }
+  ],
+  "user": [
+    {
+      "id": "9178",
+      "fullName": "milad amir",
+      "userName": "milad6869",
+      "mobile": "0901374688",
+      "password": "1234",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "e384",
+      "fullName": "milad",
+      "userName": "milad686",
+      "mobile": "09363668463",
+      "password": "2525",
+      "confirmPassword": "2525"
+    },
+    {
+      "id": "63b8",
+      "fullName": "ali",
+      "userName": "ali8585",
+      "mobile": "09363668463",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "2a1a",
+      "fullName": "ali",
+      "userName": "ali858",
+      "mobile": "09363668463",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "3274",
+      "fullName": "ali",
+      "userName": "ali85",
+      "mobile": "09363668463",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "de94",
+      "fullName": "ali",
+      "userName": "ali8",
+      "mobile": "09363668463",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "75e5",
+      "fullName": "ali",
+      "userName": "ali",
+      "mobile": "09363668463",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "0824",
+      "fullName": "ali",
+      "userName": "al",
+      "mobile": "09363668463",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}

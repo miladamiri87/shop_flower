@@ -1,0 +1,12 @@
+#title_left{
+    position: absolute !important;
+    /* left :-40%; */
+    top: 15rem;
+    color: black;
+    text-align: left;
+    font-size: large;
+  }
+
+  #arrow_btn{
+    color: black !important;
+  }

@@ -1,0 +1,41 @@
+#container_form_signin{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+    justify-content: center;
+    width: 100%;
+    padding: 0 25rem ;
+}
+
+#container_form_signin input{
+    height: 3rem;
+    border: .5px solid #f45db4;
+    box-shadow:  0 0 1rem #e7c5d8;
+    border-radius: 1rem ;
+    margin: 1rem 0 ;
+    width: 100%;
+}
+
+#btn_signUp{
+    height: 5rem;
+    background-color: #f45db4;
+    color: white;
+    border: none;
+    border-radius: 3rem;
+}
+
+#link_signUp{
+    color: black;
+    margin-top: 2rem;
+}
+
+
+#err_container{
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    background-color: rgba(255, 0, 0, 0.597);
+    color: black;
+    padding: 2rem;
+    border-radius: 2rem;
+}

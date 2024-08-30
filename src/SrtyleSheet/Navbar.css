@@ -1,0 +1,41 @@
+
+
+
+.nav_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 5rem;
+}
+
+.navbar_link{
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar_link a{
+    text-decoration: none;
+    color: black;
+}
+.navbar_link a:hover{
+    color:  #f45db4;
+}
+
+.icon_link{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    justify-content: space-between;
+    font-size: 20px;
+    cursor: pointer;
+    align-items: baseline;
+
+}
+.icon_link i:hover{
+    color: #f45db4;
+}

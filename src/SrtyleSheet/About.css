@@ -1,0 +1,105 @@
+#container_banner_about {
+    background-image: url("../../public/Assets/ABOUT/breadcrumb-bg.jpg.webp");
+    height: 15rem;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+
+#container_content_about{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 5rem ;
+
+}
+
+#left_content_about{
+    text-align: left;
+    width: 30%;
+}
+
+#right_content_about{
+    width: 55%;
+    text-align: justify;
+    font-size: large;
+}
+
+#container_servises_about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#cartes_features_container_servises_about{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    
+    width: 100%;
+    margin-top: 5rem;
+}
+#cart_feature_container_servises_about{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    position: relative;
+    border: 1px solid #f45db53f;
+    padding: 2rem;
+    /* box-shadow: 0 0 1rem #5c394d3f; */
+
+}
+
+#cart_icon{
+    background-color: white;
+    position: absolute;
+    top: -3rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+#container_our_team{
+    width: 100%;
+    padding: 0 5rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+    flex-direction: column;
+
+}
+
+#met_our_member{
+    height: auto;
+    padding: 0 2rem;
+    background-color: #f45db500;
+    border: 2px solid #f45db4;
+    border-radius: 2.5rem;
+    flex-direction: column;
+}
+#container_cardes_team_member_about{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#card_team_member_about{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+
+}
+#social_media_about_team_member{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    
+    width: 50%;
+}
+

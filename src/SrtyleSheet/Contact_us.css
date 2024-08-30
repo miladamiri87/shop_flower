@@ -1,0 +1,51 @@
+#container_banner_cantactUs{
+    background-image: url("../../public/Assets/ABOUT/breadcrumb-bg.jpg.webp");
+    height: 15rem;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+
+#container_content_contact_us{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+
+
+}
+#left_content_contact_us{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    width: 25%;
+    box-shadow: 0 0 1rem lightgray;
+    padding: 2rem 5rem 1rem 2rem;
+}
+
+#center_content_contact_us{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+    width: 30%;
+    box-shadow: 0 0 1rem lightgray;
+    padding: 2rem 5rem 1rem 2rem;
+    justify-content: space-around;
+
+}
+
+#right_content_contact_us{
+    display: flex;
+    
+    
+    align-items: stretch;
+    justify-content: stretch;
+    width: 25%;
+    box-shadow: 0 0 1rem lightgray;
+
+
+}

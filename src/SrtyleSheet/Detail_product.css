@@ -1,0 +1,42 @@
+#container_detail_page{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+#container_detail_card{
+    display: flex;
+    width: 100%;
+    padding: 5rem 5rem;
+    justify-content: space-between;
+}
+#container_detail_card img{
+    width: 40%;
+    overflow: hidden;
+
+}
+
+#detail_content_detail_card{
+    width: 40%;
+    text-align: left;
+
+}
+
+#detail_content_detail_card button{
+    background-color: #f45db4;
+    width: 100%;
+    color: white;
+    border: none;
+    border-radius: 2rem;
+    height: 4rem;
+    margin: 2rem 0;
+}
+
+#detail_content_detail_card p{
+    font-size: 1.2rem;
+}
+
+#detail_content_detail_card h2{
+    font-size: 2rem;
+    color: #50002f;
+}

@@ -1,0 +1,95 @@
+#container_new_arrival_margin {
+    display: block;
+    width: 15rem;
+    margin: 1rem;
+    transition:all 115s ease ;
+
+    
+}
+
+
+#flex_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: .25rem;
+}
+
+#container_new_arrival_card {
+    display: flex;
+    background-size: contain;
+    height: 344px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#img_style {
+    width: 100%;
+    overflow: hidden;
+}
+
+#container_icon_new_arrival_card {
+    display: none;
+}
+
+#container_new_arrival_margin:hover #container_icon_new_arrival_card {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 2rem;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+#container_icon_new_arrival_card i {
+    background-color: aliceblue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: .5rem;
+    margin: .2rem;
+}
+
+#add_to_cart_newArrival {
+    display: none;
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    line-height: 2.5rem;
+}
+
+#container_new_arrival_margin:hover #add_to_cart_newArrival {
+    background-color: #f45db4;
+    border: none;
+    border-radius: .2rem;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 2.5rem;
+    width: 100%;
+    display: block;
+
+
+}
+
+#container_new_arrival_margin:hover #add_to_cart_newArrival {
+    display: block;
+
+}
+
+#btn_flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.5rem;
+}
+
+#container_new_arrival_margin:hover #cost {
+    display: none;
+
+}
